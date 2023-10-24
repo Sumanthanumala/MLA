@@ -1,0 +1,16 @@
+const String Klogintypes='/logintypes.dart';
+const String Kcreateaccount='/createaccount.dart';
+const String Kloginaccount='/loginaccount.dart';
+const String Kmobilelogin='/mobilelogin.dart';
+const String Kotpverify='/otpscreen.dart';
+const String Kdashboard='/dashboard.dart';
+const String Knotification='/notification.dart';
+const String Kprofile='/profile.dart';
+const String Keditprofile='/editprofile.dart';
+const String Kcreatepost='/createpost.dart';
+const String Kcreatescheme='/createscheme.dart';
+const String Kcreateannouncement='/createannouncement.dart';
+const String Ksurvey='/survey.dart';
+const String Kcreatepoll='/createpoll.dart';
+const String Kcreatesurvey='/createsurvey.dart';
+const String Kreportproblem='/reportproblem.dart';
